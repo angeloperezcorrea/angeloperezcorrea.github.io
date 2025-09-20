@@ -1,4 +1,4 @@
-<img src="assets/Angelo.png" alt="Foto de Angelo" width="200">
+<img src="https://raw.githubusercontent.com/angeloperezcorrea/angeloperezcorrea/main/assets/Angelo.png" width="200">
 
 
 
