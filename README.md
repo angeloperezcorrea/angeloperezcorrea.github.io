@@ -11,7 +11,7 @@
 🎓 Tecnólogo en Sistemas y estudiante de Ingeniería en Sistemas y Computación (8.º semestre).\
 🛠 Con más de 2 años de experiencia en soporte técnico y mesa de ayuda.\
 🌱 Actualmente aprendiendo sobre virtualización, redes y programación.\
-📄 Mira mi [Hoja de Vida](#) para más detalles.\
+📄 Mira mi [Hoja de Vida](#https://github.com/angeloperezcorrea/Portafolio-Certificado/blob/main/Certificaciones%20Fundamentos%20de%20Seguridad%20en%20TIC-Angelo%20Perez.pdf) para más detalles.\
 ✉️ Escríbeme: **anggelo20@hotmail.com**
 
 <img alt="Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
