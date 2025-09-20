@@ -1,4 +1,4 @@
-<img src="assets/Angelo.jpg" alt="Foto de Angelo" width="200">
+<img src="assets/Angelo.png" alt="Foto de Angelo" width="200">
 
 
 
