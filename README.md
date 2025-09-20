@@ -7,7 +7,7 @@
 💡 Me apasiona la tecnología, el soporte TI y las soluciones de infraestructura.\
 🎓 Tecnólogo en Sistemas y estudiante de Ingeniería en Sistemas y Computación (8.º semestre).\
 🛠 Con más de 2 años de experiencia en soporte técnico y mesa de ayuda.\
-🌱 Actualmente aprendiendo sobre virtualización, redes y seguridad informática.\
+🌱 Actualmente aprendiendo sobre virtualización, redes y programación.\
 📄 Mira mi [Hoja de Vida](#) para más detalles.\
 ✉️ Escríbeme: **anggelo20@hotmail.com**
 
