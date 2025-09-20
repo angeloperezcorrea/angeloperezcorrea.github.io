@@ -1,6 +1,7 @@
-<img src="https://raw.githubusercontent.com/angeloperezcorrea/angeloperezcorrea/main/assets/Angelo.png" width="200">
 
 
+
+<img width="1584" height="396" alt="Angelo" src="https://github.com/user-attachments/assets/b84f7e3a-1e4f-45c2-901c-98967392f93a" />
 
 <img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Angelo</h2>
 
