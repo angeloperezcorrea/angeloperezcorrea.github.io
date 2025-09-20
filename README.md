@@ -2,7 +2,7 @@
 
 <img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Angelo</h2>
 
-### 👨🏻‍💻 &nbsp;Sobre mí
+### 👨🏻‍💻 &nbsp;Sobre mí :sunglasses:
 
 💡 Me apasiona la tecnología, el soporte TI y las soluciones de infraestructura.\
 🎓 Tecnólogo en Sistemas y estudiante de Ingeniería en Sistemas y Computación (8.º semestre).\
