@@ -1,4 +1,5 @@
-![Banner](https://raw.githubusercontent.com/angeloperezcorrea/angeloperezcorrea/main/assets/banner.jpg)
+<img src="Descargas/Angelo.png" alt="Angelo" width="200">
+
 
 <img alt="Wave" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Hand%20Wave.gif" width='40' align="left"/><h2>¡Hola! Soy Angelo</h2>
 
